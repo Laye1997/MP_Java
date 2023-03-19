@@ -1,0 +1,6 @@
+java -cp C:\Users\Acer\Desktop\ESP\jProjetFinal\SenFileCompressor\src SenFileCompressor -c file1.txt file1_compressed.sfc
+
+
+java -cp C:\Users\Acer\Desktop\ESP\jProjetFinal\SenFileCompressor\src SenFileCompressor -c test.pdf test_compressed.sfc
+
+java -cp C:\Users\Acer\Desktop\ESP\jProjetFinal\SenFileCompressor\src SenFileCompressor -c test.mp3 test_compressed.sfc
